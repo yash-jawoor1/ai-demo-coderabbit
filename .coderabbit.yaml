@@ -4,5 +4,5 @@ reviews:
   trigger: auto
   base_branches:
     - main
-    - dev  # Add any branches you want auto-reviewed
+    - dev
 
