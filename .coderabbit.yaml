@@ -1,0 +1,8 @@
+reviews:
+  enabled: true
+  review_status: true
+  trigger: auto
+  base_branches:
+    - main
+    - dev  # Add any branches you want auto-reviewed
+
