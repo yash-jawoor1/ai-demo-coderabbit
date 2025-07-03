@@ -1,4 +1,5 @@
-function add(a, b) {
-  return a - b; // Should be a + b
+// buggy-js.js
+function sum(a, b) {
+  return a - b; // intentional bug
 }
 
